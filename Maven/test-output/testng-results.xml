@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34075" started-at="2019-11-06T04:58:35Z" finished-at="2019-11-06T04:59:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34075" started-at="2019-11-06T04:58:35Z" finished-at="2019-11-06T04:59:09Z">
+      <class name="TestNG.Newtours_withdataprovider">
+        <test-method status="PASS" signature="registeruser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestNG.Newtours_withdataprovider@6767c1fc]" name="registeruser" duration-ms="14269" started-at="2019-11-06T04:58:35Z" data-provider="dp" finished-at="2019-11-06T04:58:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[satish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeruser -->
+        <test-method status="PASS" signature="registeruser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestNG.Newtours_withdataprovider@6767c1fc]" name="registeruser" duration-ms="9868" started-at="2019-11-06T04:58:49Z" data-provider="dp" finished-at="2019-11-06T04:58:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nagesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeruser -->
+        <test-method status="PASS" signature="registeruser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestNG.Newtours_withdataprovider@6767c1fc]" name="registeruser" duration-ms="9870" started-at="2019-11-06T04:58:59Z" data-provider="dp" finished-at="2019-11-06T04:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[murthy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ghi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ghi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registeruser -->
+      </class> <!-- TestNG.Newtours_withdataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
