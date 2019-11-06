@@ -24,7 +24,7 @@ public class mouse_actions {
 				
 				Thread.sleep(3000);
 				
-				actions.moveToElement(driver.findElement(By.xpath("//a@[href='/electronics']"))).perform();
+				actions.moveToElement(driver.findElement(By.xpath("//a@[href=dfg'/electronics']"))).perform();
 				Thread.sleep(3000);
 				actions.moveToElement(driver.findElement(By.xpath("//a@[href='/camera-photo']"))).click().build().perform();
 
